@@ -1,4 +1,12 @@
 ## Hi there 👋
+<h1 align="center">Hi 👋, I'm Yalancy C R S</h1>
+<h3 align="center">Full stack developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yalancy0901&label=Profile%20views&color=0e75b6&style=flat" alt="Yalancy0901" /> </p>
+
+- 🔭 I’m currently working on MERN peojects
+- 🌱 I’m currently learning **SDE**
+- 📫 How to reach me **chandrarajanyalancy@gmail.com@gmail.com**
 
 <!--
 **Yalancy0901/Yalancy0901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

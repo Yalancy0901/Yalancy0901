@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Yalancy C R</h1>
 <h3 align="center">Full stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yalancy0901&label=Profile%20views&color=%23d397ff&style=flat" alt="Yalancy0901" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yalancy0901&label=Profile%20views&color=%23d397ff&style=flat" alt="Yalancy0901" /> </p> -->
 
 - 🎓 I’m currently studying at **Chennai Institute Of Technology-B.Tech CSBS**
 - 🔭 I’m currently working on MERN peojects

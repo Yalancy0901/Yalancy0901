@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1 align="center">Hi 👋, I'm Yalancy C R</h1>
 <h3 align="center">Full stack developer</h3>
 

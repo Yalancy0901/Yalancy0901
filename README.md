@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yalancy C R</h1>
 <h3 align="center">Full stack developer and an Aspiring SDE</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yalancy0901&label=Profile%20views&color=%23d397ff&style=flat" alt="Yalancy0901" /> </p> -->
+<img src="https://komarev.com/ghpvc/?username=Yalancy0901&color=d397f8" />
 
 - 🎓 I’m currently studying at **Chennai Institute Of Technology-B.Tech CSBS**
 - 🔭 I’m currently working on MERN peojects

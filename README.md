@@ -35,3 +35,5 @@
     <img width="70" height="50" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg" alt="Mathplotlib">
   </div>
 </td>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Yalancy0901&show_icons=true&locale=en&layout=compact" alt="Yalancy0901" /></p>

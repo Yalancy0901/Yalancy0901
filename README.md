@@ -5,7 +5,7 @@
 
 - 🎓 I’m currently studying at **Chennai Institute Of Technology-B.Tech CSBS**
 - 🔭 I’m currently working on MERN peojects
-- 🌱 I’m currently learning **SDE**
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 - 💬 Ask me about Django, React.js, Data Analysis using Python
 - 🤔 I’m looking for help with Node.js
 - 📫 How to reach me **chandrarajanyalancy@gmail.com**
